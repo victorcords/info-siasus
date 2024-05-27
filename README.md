@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorcords/info-siasus/blob/main/info_siasus.ipynb)
+
 # Info-SIASUS
 Análise do banco de dados do Sistema de Informação Ambulatoriais do DATASUS.
 
