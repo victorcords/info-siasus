@@ -1,7 +1,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorcords/info-siasus/blob/main/info_siasus.ipynb)
 
 # Info-SIASUS
-Análise do banco de dados do Sistema de Informação Ambulatoriais do DATASUS.
+Análise do banco de dados do Sistema de Informações Ambulatoriais do DATASUS.
 
 ## Introdução
 A extração e tratamento dos dados presentes nos bancos de dados do DATASUS podem fornecer informações precisas e orientar condutas e políticas públicas. O Sistema de Informações Ambulatoriais (SIA) apresenta uma estrutura e conjunto de dados que, agreagados da forma correta, podem ser úteis tanto cientificamente quanto estrategicamente, como Ferré et al. demonstrou e exemplificou métodos para extrair coortes dos bancos de dados do SIA do DATASUS (e de outros sistemas), o que torna possível a análise de diversos elementos, dentre eles, a análise da dispensação de medicamentos, quantitativo de usuários desses medicamentos e o valor gasto. Dessa forma, este projeto tem como objetivo realizar uma análise dos medicamentos (dispensação, quantitativo de usuários e valor gasto) utilizados conforme o CID previamente especificado em determinada Unidade da Federação em um período de tempo. A vantagem deste projeto é a utilização do pacote `microdatasus` para facilitar o processo de extração e transformação. 
